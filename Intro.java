@@ -9,6 +9,6 @@ public class Intro
     
     System.out.println("howdy");
     
-    System.out.println("wow");
+
   }
 }
