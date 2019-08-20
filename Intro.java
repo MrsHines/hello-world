@@ -5,7 +5,7 @@ public class Intro
   {
     System.out.println("testing testing testing");
     
-    System.out.println("also testing new branch");
+    System.out.println("also new branch");
     
     System.out.println("howdy");
 
